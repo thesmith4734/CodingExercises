@@ -1,5 +1,5 @@
 This repo contains several projects to use for practice and to demonstrate python development skills
 
-* ETL Example
+* [ETL Example](https://github.com/CodingExercises/CodingExercises/tree/main/etl_example_exercise)
 
-* Requests example
+* [Requests example](https://github.com/CodingExercises/CodingExercises/tree/main/requests_example)

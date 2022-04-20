@@ -9,11 +9,12 @@ This repo contains several projects to use for practice and to demonstrate pytho
 
 ## Exercises in progress:
 
-* [Requests exercise](https://github.com/CodingExercises/CodingExercises/tree/main/requests_example)
+* [Requests exercise](https://github.com/CodingExercises/CodingExercises/tree/main/requests_exercise)
     * Leverage an open api to source currency information and bitcoin prices and provide that data to users
+* [Rest lottery exercise](https://github.com/CodingExercises/CodingExercises/tree/main/rest_lottery_exercise)
+    * Leverage powerball lottery data (csv file) to return interesting data requested by a user
 
 ## Planned Exercises:
 
-* Rest exercise
 * OOP exercise(s)
 * GUI exercise

@@ -1,6 +1,8 @@
 # Coding Exercises
 This repo contains several projects to use for practice and to demonstrate python (or other langauge) development skills
 
+Fork this repo and develop + commit the solution to your newly forked repo.
+
 ## Exercises
 
 * [ETL exercise](https://github.com/CodingExercises/CodingExercises/tree/main/etl_example_exercise)

@@ -3,7 +3,6 @@
 =====
 
 # Sample Requests Project
-## Leverage
 
 Write a program that allows a user to specify certain parameters and leverage api endpoints at https://developers.coinbase.com/api/v2#data-endpoints to provide and return the data per requirements below. You can choose how you want to collect and manage user inputs.
 

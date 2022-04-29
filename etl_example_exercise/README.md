@@ -1,3 +1,9 @@
+# There were a couple of differences in the files I recieved for this assignment and the repository I was directed to:
+* The main and __init__ files were not present, so I created a consolidate_data.py file where the assignment is completed
+* The sample_data.2.dat had a different seperator ( | instead of , )
+* I have included an api.py file for a quick flask backend I was experimenting with
+* During the interview, another assessment was given. It is explained and solved in the file newfile.py
+
 # Sample ETL Exercise
 ### Write a program/script that performs the following:
 * Reads the 3 sample_files.* in Input/data_source_1/ and Input/data_source_2/ folders into a dataframe
